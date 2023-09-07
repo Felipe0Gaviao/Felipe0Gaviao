@@ -7,7 +7,7 @@
 - Manipulação de arquivos em Python e JavaScript.
 
 ### Para me Encontrar:
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-gaviao-pereira)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-gaviao-pereira)
 
 ### Hard Skills:
 - JavaScript
